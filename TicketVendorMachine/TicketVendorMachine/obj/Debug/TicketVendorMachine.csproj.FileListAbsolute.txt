@@ -1,0 +1,10 @@
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.AssemblyReference.cache
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form1.resources
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Properties.Resources.resources
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.GenerateResource.cache
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.CoreCompileInputs.cache
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe.config
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.pdb
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.exe
+D:\CNPM\Assignment\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.pdb
